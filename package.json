@@ -1,0 +1,27 @@
+{
+  "name": "solo-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite serve",
+    "watch": "vite watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@quasar/vite-plugin": "^1.7.0",
+    "@vitejs/plugin-vue": "^5.1.2",
+    "vite": "^5.4.1",
+    "vue": "^3.4.38",
+    "quasar": "^2.16.6"
+  },
+  "devDependencies": {
+    "@quasar/extras": "^1.16.12",
+    "postcss": "^8.4.41",
+    "postcss-loader": "^8.1.1",
+    "sass": "^1.77.8"
+  }
+}
