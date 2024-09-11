@@ -12,16 +12,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@quasar/vite-plugin": "^1.7.0",
     "@vitejs/plugin-vue": "^5.1.2",
+    "quasar": "^2.16.6",
     "vite": "^5.4.1",
-    "vue": "^3.4.38",
-    "quasar": "^2.16.6"
+    "vue": "^3.4.38"
   },
   "devDependencies": {
-    "@quasar/extras": "^1.16.12",
-    "postcss": "^8.4.41",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.45",
     "postcss-loader": "^8.1.1",
-    "sass": "^1.77.8"
+    "sass": "^1.77.8",
+    "tailwindcss": "^3.4.10"
   }
 }
